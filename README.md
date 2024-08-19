@@ -21,6 +21,14 @@ Agile Methodologies (late 1990s-2000s): Emphasized iterative development, collab
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The Software Development Life Cycle (SDLC) consists of several phases, including:
+1. Requirements: Gathering and documenting user needs and system requirements.
+2. Design: Creating high-level and detailed designs of the software architecture and user interface.
+3Implementation: Writing code and building the software according to the design specifications.
+4. Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+5. Deployment: Releasing the software to users or customers.
+6. Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
