@@ -32,6 +32,29 @@ The Software Development Life Cycle (SDLC) consists of several phases, including
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+A brief comparison between Waterfall and Agile with examples:
+Waterfall:
+Linear, sequential approach
+Less flexible to changes
+Example: Building a bridge
+Appropriate for: Large government contracts, aerospace projects
+
+Agile:
+Iterative, incremental approach
+Flexible, adaptable to changes
+Example: Developing a mobile app
+Appropriate for: Web applications, startups
+
+Scenarios:
+Waterfall:
+Developing safety-critical software for a nuclear power plant
+Building a new payroll system with fixed regulatory requirements
+
+Agile:
+Creating a social media platform with evolving user needs
+Developing a video game with ongoing feature additions and balancing
+
+Both methods have their place depending on project requirements, industry, and client needs.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
